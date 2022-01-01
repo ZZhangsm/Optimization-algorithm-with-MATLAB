@@ -1,1 +1,1 @@
-xx
+gradient decent + BB step
